@@ -1,0 +1,18 @@
+.root
+{
+	-fx-font-size: 16px;
+	//-fx-font-family: "Times New Roman", Georgia, Serif;
+	//-fx-font-family: "Courier New", Courier, monospace;
+	-fx-font-family: "Monotype Corsiva", sans-serif;
+	//-fx-font-weight: bold;
+}
+
+#title
+{
+	-fx-font-size: 28px;
+	-fx-font-weight: bold;
+}
+#pubDate
+{
+	-fx-font-size: 12px;
+}

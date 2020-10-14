@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path:  xom-1.2.10.jar
+Main-Class: SVG_CreatorV2
+

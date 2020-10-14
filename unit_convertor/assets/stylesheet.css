@@ -1,0 +1,14 @@
+.root
+{
+	-fx-font-size: 14px;
+	-fx-font-family: "Times New Roman", Georgia, Serif;
+	//-fx-font-family: "Monotype Corsiva", sans-serif;            
+	-fx-font-weight: bold;
+}
+
+.playGround
+{
+	-fx-font-size: 20px;
+	-fx-font-family: "Courier New", Courier, monospace;
+	-fx-font-weight: bold;
+}

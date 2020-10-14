@@ -1,0 +1,9 @@
+.root
+{
+	-fx-font-size: 14px;
+    -fx-background-color: SeaShell;
+	//-fx-font-family: "Times New Roman", Georgia, Serif;
+	//-fx-font-family: "Courier New", Courier, monospace;
+	-fx-font-family: "Monotype Corsiva", sans-serif;
+	//-fx-font-weight: bold;
+}
