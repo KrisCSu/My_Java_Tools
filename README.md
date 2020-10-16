@@ -44,9 +44,8 @@ A sleek unit convertor with a slider.
 
 It converts units between cm, inch, feet, yard, and meter. Users can switch between different units to set which one converts to other units. 
 
-~~~~
-Although it gives percise results, a slider in a unit convertor?!
-~~~~
+
+~~Although it gives percise results, a slider in a unit convertor?!~~
 
 
 
