@@ -14,7 +14,7 @@ It's a clean RSS reader which can retrieve given RSS feed. To use it, you just n
 
 
 
-I personally used it as a comic viewer which retrieves comics from [Penny-Arcade][https://www.penny-arcade.com/]. Not a fan of it, but sometimes it's funny. :smile:
+I personally used it as a comic viewer which retrieves comics from [Penny-Arcade](https://www.penny-arcade.com/). Not a fan of it, but sometimes it's funny. :smile:
 
 
 
