@@ -66,12 +66,12 @@ public class RSS_Reader extends Application
         mainScene.getStylesheets().add("assets/stylesheet.css");
         mainStage.setScene(mainScene);
 
-        // custom code below --------------------------------------------
 
         Builder parser = new Builder();
         // creates data structure from file
         try
         {
+            //Change the rss link here to customize
             Document doc = parser.build( "http://comicfeeds.chrisbenard.net/view/pennyarcade/default" );
 
             Element rootElement = doc.getRootElement();
